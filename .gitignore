@@ -1,0 +1,6 @@
+/cifar/cifar-10-batches-py/
+/python/nets/contrDA/contrDA_pretraining/0/checkpoint
+/python/nets/contrDA/contrDA_pretraining/0/ckpt-66.data-00000-of-00001
+/python/nets/contrDA/contrDA_pretraining/0/ckpt-66.index
+/python/nets/simsiam/simsiam_pretraining/0/linear_model.h5
+/python/nets/vae/vae_pretraining/0/pretraining.h5
